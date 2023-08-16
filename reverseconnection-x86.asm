@@ -1,3 +1,6 @@
+;*************
+;By: Teuzero *
+;*************
 .386
 .MODEL FLAT, STDCALL
 
